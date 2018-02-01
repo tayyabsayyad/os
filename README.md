@@ -6,3 +6,5 @@
 2. How it works ?
 
 3. What are its uses?
+
+4. What are some functions of os?
